@@ -1,0 +1,77 @@
+/*Punto 3*/
+/*Punto 4*/
+.soy-azul{
+    color: blue;
+}
+.soy-rojo{
+    color: red;
+}
+/*Punto 5*/
+.subrayado-verde{
+    color: rgb(22, 142, 89);
+    text-decoration: underline;
+}
+.color-rojo{
+    color: rgb(255, 0, 56);
+}
+.subrayado-arriba{
+    text-decoration: overline underline;
+}
+.letra-grande{
+    font-size: 30px;
+}
+.subrayado-rojo{
+    color: rgb(255,0,56);
+    text-decoration: underline;
+}
+.color-azul{
+    color: rgb(0, 26, 255);    
+}
+/*Punto 6*/
+.color-amarillo{
+    display: flex;
+    flex-direction: row;
+    color: rgb(254, 254, 0);
+}
+.color-morado{
+    display: flex;
+    color: rgb(128, 0, 128);
+}
+/*Punto 7*/
+.section-septimo{
+    background-color: rgb(214, 175, 220);
+    color: white;
+    height: 58px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.menu-septimo{ 
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;    
+}
+.li-septimo:hover{
+    background-color: blue;
+}
+.li-septimo{
+    padding: 10px;
+    margin: 1px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 0
+    ;
+}
+/*Punto 8*/
+
+/*Punto 9*/
+.table-noveno{
+    background-color: rgb(255, 255, 0);
+    border: 1 solid;
+}
+/*Punto 10*/
+/*Punto 11*/
+/*Punto 12*/
+/*Punto 13*/

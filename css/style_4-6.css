@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #020917;
+}
+div{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+/*Punto 4*/
+.soy-azul{
+    color: blue;
+}
+.soy-rojo{
+    color: red;
+}
+
+/*Punto 5*/
+.subrayado-verde{
+    color: rgb(22, 142, 89);
+    text-decoration: underline;
+}
+.color-rojo{
+    color: rgb(255, 0, 56);
+}
+.subrayado-arriba{
+    text-decoration: overline underline;
+}
+.letra-grande{
+    font-size: 30px;
+}
+.subrayado-rojo{
+    color: rgb(255,0,56);
+    text-decoration: underline;
+}
+.color-azul{
+    color: rgb(0, 26, 255);    
+}
+/*Punto 6*/
+.color-amarillo{
+    display: flex;
+    flex-direction: row;
+    color: rgb(254, 254, 0);
+}
+.color-morado{
+    display: flex;
+    color: rgb(128, 0, 128);
+}

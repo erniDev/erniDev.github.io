@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #020917;
+}
+
+/*Punto 7 y 8*/
+.menu-septimo{
+    background-color: rgb(214, 175, 220);
+    height: 58px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.menu-septimo{ 
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;    
+}
+.li-septimo:hover{
+    background-color: blue;
+}
+.li-septimo{
+    padding: 10px;
+    margin: 1px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 0;
+}
+.punto-7{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 0 0 20px 0;  
+}
+/*Punto 9*/
+.punto-9{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.table-p-9{
+    background-color: #ffff00;
+    border-collapse: collapse;
+    border-bottom: dotted #ff0000;
+}
+table-p-9 th{
+    color:#ff0000;
+}
+table-p-9 td,tr{
+    border: 1px dotted #000000;
+}
+.e, .p{
+    font-size: 30px;
+}
